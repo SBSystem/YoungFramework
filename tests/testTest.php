@@ -1,6 +1,6 @@
 <?php
 
-class testAsseration extends \PHPUnit_Framework_TestCase
+class testTest extends \PHPUnit_Framework_TestCase
 {
     public function testTrueAsseration()
     {
